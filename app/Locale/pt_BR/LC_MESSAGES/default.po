@@ -1,0 +1,118 @@
+msgid "Title"
+msgstr "Título"
+
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Add Content"
+msgstr "Adicionar Conteúdo"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Add New Category"
+msgstr "Adicionar Nova Categoria"
+
+msgid "List Contents"
+msgstr "Listar Conteúdo"
+
+msgid "List Categories"
+msgstr "Listar Categorias"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "New Content"
+msgstr "Novo Conteúdo"
+
+msgid "Select a category"
+msgstr "Selecione uma categoria"
+
+msgid "Add Category"
+msgstr "Adicionar Categoria"
+
+msgid "Parent Category"
+msgstr "Categoria Pai"
+
+msgid "New Category"
+msgstr "Nova Categoria"
+
+
+msgid "previous"
+msgstr "anterior"
+
+
+msgid "next"
+msgstr "próxima"
+
+msgid "Are you sure you want to delete category # %s?"
+msgstr "Você tem certeza que deseja deletar a categoria # %s?"
+
+
+msgid "Edit"
+msgstr "Editar"
+
+
+msgid "Remove"
+msgstr "Remover"
+
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Página {:page} de {:pages}, mostrando {:current} registros no total de {:count}, começando em {:start}, terminando em {:end}"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Contents"
+msgstr "Conteúdo"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Are you sure you want to delete content # %s?"
+msgstr "Você tem certeza que deseja deletar esse conteúdo # %s?"
+
+msgid "Edit Content"
+msgstr "Editar Conteúdo"
+
+msgid "The content has been saved."
+msgstr "O conteudo foi salvo."
+
+msgid "The content could not be saved. Please, try again."
+msgstr "O conteúdo não pode ser salvo, por favor, tente novamente."
+
+msgid "The content has been deleted."
+msgstr "O conteúdo foi deletado."
+
+msgid "The content could not be deleted. Please, try again."
+msgstr "O Conteúdo não pode ser deletado, por favor, tente novamente."
+
+msgid "Edit Category"
+msgstr "Editar Categoria"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Delete Content"
+msgstr "Deletar Conteúdo"
+
+msgid "Delete Category"
+msgstr "Deletar Categoria"
+
+msgid "Parent"
+msgstr "Categoria Pai"
